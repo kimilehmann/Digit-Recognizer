@@ -40,7 +40,7 @@ Digit-Classifier/
 3. **Backend starten**
    ```bash
    cd src
-   uvicorn src.digitClassifier:app --reload
+   uvicorn digitClassifier:app --reload
    ```
 
 4. **Frontend öffnen**
