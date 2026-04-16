@@ -1,0 +1,7 @@
+tensorflow
+fastapi
+uvicorn
+pydantic
+numpy
+pillow
+scikit-learn
