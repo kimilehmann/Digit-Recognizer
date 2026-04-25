@@ -44,7 +44,7 @@ Digit-Classifier/
    ```
 
 4. **Frontend öffnen**
-   - Öffne `src/web/index.html` im Browser (z.B. mit Live Server oder Python HTTP-Server).
+   - Öffne `src/web/index.html` im Browser.
    - Zeichne eine Ziffer und klicke auf „Vorhersage“.
 
 ## Hinweise
